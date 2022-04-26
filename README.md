@@ -1,8 +1,2 @@
 # Si507Final-Project
-This project uses 'Yelp Fusion' and 'Twitter API'. Users need to go the 'Yelp Fusion'
-(https://www.yelp.com/developers/documentation/v3/get_started) and 'Twitter API'
-(https://developer.twitter.com/en/docs/twitter-api) to acquire their own keys and 
-secrets to run the program. People will interact with the program through two questioins.
-First, they have to answer which city do they want to eat. Second, they need to specify the type of food they want to eat.
-After users answer two questioins. After answering the questions, a bar graph, scatter plot, and a web page by Flask will 
-automatically be displayed with the information about restaurant and the time people mentioned the restaurant on Twitter. 
+This project makes use of the 'Yelp Fusion' and 'Twitter API' components. Users must first obtain their own keys and secrets to run the software by visiting the 'Yelp Fusion' (https://www.yelp.com/developers/documentation/v3/get started) and 'Twitter API' (https://developer.twitter.com/en/docs/twitter-api) pages. The application will engage with the user via two questions. To begin, they must specify which city in which they wish to dine. Second, customers must indicate the type of food they wish to consume. Following their responses to two questions. After answering the questions, a bar graph, scatter plot, and Flask-powered web page will be displayed with information about the restaurant and the number of times it was mentioned on Twitter. 
